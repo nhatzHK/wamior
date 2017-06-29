@@ -1,0 +1,4 @@
+{
+    "lib": "/path/to/lib/directory/",
+    "config": "/path/to/wamior.config.json.priv"
+}
